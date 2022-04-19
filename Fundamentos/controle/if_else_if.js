@@ -15,4 +15,4 @@ const imPrimaResultado = function (nota) {
 }
 console.log('fim')
 }
-imPrimaResultado(2)
+imPrimaResultado(-1)
